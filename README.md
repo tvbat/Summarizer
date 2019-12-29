@@ -24,3 +24,6 @@ _Markers (discourse markers)_ are words or phrases that do not have any real lex
 5. **Sentence selection.** From the obtained set of sentences (see item 3), only those whose weight exceeds a predetermined threshold value (see item 4) are selected for the summary.
 
 6. **Smoothing** makes the resulting abstract more coherent and readable. Smoothing replaces some words with ones that are more suitable, or removes them whatsoever.
+
+
+_The study was funded by RFBR according to the research project N 19-07-01134_
