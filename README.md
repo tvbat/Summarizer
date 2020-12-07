@@ -1,4 +1,3 @@
-#### GENERAL DESCRIPTION OF THE SYSTEM
 
 ## General description of the system
 
@@ -29,7 +28,7 @@ _Markers (discourse markers)_ are words or phrases that do not have any real lex
 
 ## Acknowledgement
 
-The study was funded by RFBR according to the research project N 19-07-01134
+The study was funded by RFBR according to the research project N 19-07-01134.
 
 
 ## How to Cite
