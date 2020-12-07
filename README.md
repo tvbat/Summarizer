@@ -1,5 +1,7 @@
 #### GENERAL DESCRIPTION OF THE SYSTEM
 
+## General description of the system
+
 1. **Preprocessing.** At the preprocessing stage, all images, tables, sentences with formulas, information about authors and bibliographic references are deleted from the source text. The author's abstracts are cut and saved separately so that we could evaluate the system afterwards, by means of comparing the result with the original abstract.
 
 2. **Building topic models, extracting keywords and multi-word expressions.** _A topic_ is a set of words that describe a subject area. _A topic model_ is a set of topics. Topics are not known in advance, they are discovered during the work of the probabilistic algorithm.
@@ -25,5 +27,22 @@ _Markers (discourse markers)_ are words or phrases that do not have any real lex
 
 6. **Smoothing** makes the resulting abstract more coherent and readable. Smoothing replaces some words with ones that are more suitable, or removes them whatsoever.
 
+## Acknowledgement
 
-_The study was funded by RFBR according to the research project N 19-07-01134_
+The study was funded by RFBR according to the research project N 19-07-01134
+
+
+## How to Cite
+
+If you extend or use this work, please cite the [paper](https://computingonline.net/computing/article/view/1700/900) where it was introduced:
+```
+@article{batura2020method,
+  title={ A method for automatic text summarization based on rhetorical analysis and topic models},
+  author={Batura, Tatiana and Bakiyeva, Aigerim and Charintseva, Maria},
+  journal={International Journal of Computing},
+  volume={19},
+  number={1},
+  pages={118--127},
+  year={2020}
+}
+```
