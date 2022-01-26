@@ -36,7 +36,7 @@ The study was funded by RFBR according to the research project N 19-07-01134.
 If you extend or use this work, please cite the [paper](https://www.researchgate.net/profile/Tatiana-Batura/publication/341369997_METHOD_FOR_AUTOMATIC_TEXT_SUMMARIZATION_BASED_ON_RHETORICAL_ANALYSIS_AND_TOPIC_MODELING/links/5ebcd2f7299bf1c09abbd54d/METHOD-FOR-AUTOMATIC-TEXT-SUMMARIZATION-BASED-ON-RHETORICAL-ANALYSIS-AND-TOPIC-MODELING.pdf) where it was introduced:
 ```
 @article{batura2020method,
-  title={A method for automatic text summarization based on rhetorical analysis and topic models},
+  title={A method for automatic text summarization based on rhetorical analysis and topic modeling},
   author={Batura, Tatiana and Bakiyeva, Aigerim and Charintseva, Maria},
   journal={International Journal of Computing},
   volume={19},
